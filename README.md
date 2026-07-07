@@ -13,21 +13,21 @@
 ## Lenguajes y frameworks
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite" />
-  <img src="https://img.shields.io/badge/-5FA04E?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express" />
-  <img src="https://img.shields.io/badge/-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite" />
-  <img src="https://img.shields.io/badge/-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /></a>
+  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
+  <a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /></a>
+  <a href="https://vitejs.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" /></a>
+  <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /></a>
+  <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" /></a>
+  <a href="https://www.sqlite.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" /></a>
+  <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /></a>
 </p>
 
 ## Herramientas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code" />
-  <img src="https://img.shields.io/badge/-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-  <img src="https://img.shields.io/badge/-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/-5391FE?logo=powershell&logoColor=white&style=for-the-badge" alt="PowerShell" />
+  <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /></a>
+  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /></a>
+  <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" /></a>
+  <a href="https://learn.microsoft.com/powershell"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell" /></a>
 </p>
