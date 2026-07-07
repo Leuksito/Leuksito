@@ -6,9 +6,9 @@
 
 <p align="center">Estudiante de <strong>ASIR</strong> y desarrollador en construccion. Me fascina la tecnologia y aprendo creando proyectos que la gente pueda usar de verdad.</p>
 
-- :rocket: Ahora mismo estoy trabajando en **[UnhookApp](https://github.com/Leuksito/unhookapp)** - limpieza de Gmail con un clic, OAuth 2.0 + Gmail API.
-- :seedling: Estoy aprendiendo: TypeScript, CI/CD y despliegue en produccion con Docker.
-- :zap: Me gusta construir apps que resuelven problemas reales, en vez de solo proyectos de clase.
+- 🚀 Ahora mismo estoy trabajando en **[UnhookApp](https://github.com/Leuksito/unhookapp)** — limpieza de Gmail con un clic, OAuth 2.0 + Gmail API.
+- 🌱 Estoy aprendiendo: TypeScript, CI/CD y despliegue en produccion con Docker.
+- ⚡ Me gusta construir apps que resuelven problemas reales, en vez de solo proyectos de clase.
 
 ## Lenguajes y frameworks
 
