@@ -21,6 +21,7 @@
   <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" /></a>
   <a href="https://www.sqlite.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" /></a>
   <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /></a>
+  <a href="https://ai.google.dev"><img src="https://cdn.simpleicons.org/googlegemini/8E75B7" height="48" width="48" alt="Gemini" /></a>
 </p>
 
 ## Herramientas
