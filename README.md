@@ -2,7 +2,7 @@
   <a href="https://github.com/Leuksito"><img height="56" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub"></a>
 </p>
 
-<h3 align="center">Hola! Soy Leuksito</h3>
+<h3 align="center">Hola! Soy Leuks</h3>
 
 <p align="center">Estudiante de <strong>ASIR</strong> y desarrollador en construccion. Me fascina la tecnologia y aprendo creando proyectos que la gente pueda usar de verdad.</p>
 
