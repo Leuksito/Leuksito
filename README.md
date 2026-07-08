@@ -8,7 +8,7 @@
 
 - 🚀 Ahora mismo estoy trabajando en **[UnhookApp](https://github.com/Leuksito/unhookapp)** — limpieza de Gmail con un clic, OAuth 2.0 + Gmail API.
 - 🌱 Estoy aprendiendo: TypeScript, CI/CD y despliegue en produccion con Docker.
-- ⚡ Me gusta construir apps que resuelven problemas reales, en vez de solo proyectos de clase.
+- ⚡ Me gusta construir apps que resuelven problemas reales.
 
 ## Lenguajes y frameworks
 
